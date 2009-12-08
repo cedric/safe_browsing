@@ -7,6 +7,6 @@ Echoe.new('safe_browsing', '0.0.0') do |p|
   p.url            = "http://github.com/cedric/safe_browsing"
   p.author         = "Cedric Howe"
   p.email          = "cedric@patch.com"
-  p.ignore_pattern = ["tmp/*", "script/*"]
+  p.ignore_pattern = ["pkg/*", "script/*", "tmp/*"]
   p.development_dependencies = []
 end
