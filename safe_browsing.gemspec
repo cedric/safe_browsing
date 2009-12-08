@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.date = %q{2009-12-08}
   s.description = %q{Google SafeBrowsingAPI phishing and malware blacklist.}
   s.email = %q{cedric@patch.com}
-  s.extra_rdoc_files = ["README.rdoc", "lib/safe_browsing.rb"]
-  s.files = ["README.rdoc", "Rakefile", "init.rb", "lib/safe_browsing.rb", "Manifest", "safe_browsing.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/safe_browsing.rb"]
+  s.files = ["CHANGELOG", "Manifest", "README.rdoc", "Rakefile", "init.rb", "lib/safe_browsing.rb", "safe_browsing.gemspec"]
   s.homepage = %q{http://github.com/cedric/safe_browsing}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Safe_browsing", "--main", "README.rdoc"]
   s.require_paths = ["lib"]

@@ -1,5 +1,7 @@
+CHANGELOG
+Manifest
 README.rdoc
 Rakefile
 init.rb
 lib/safe_browsing.rb
-Manifest
+safe_browsing.gemspec
