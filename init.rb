@@ -1,1 +1,1 @@
-require 'safe_browsing'
+require 'lib/safe_browsing'
